@@ -1,0 +1,37 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "first_name": "saraswathi",
+      
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6,
+      "first_name": "ramya",
+      "last_name": "shetty",
+      "email": "Sarsaw@gmail.com"
+    }
+  ],
+  "name": [
+    {
+      "id": 1,
+      "name": "ramu"
+    }
+  ]
+}
